@@ -18,6 +18,7 @@ Gem::Specification.new do |gem|
   gem.add_dependency "eventmachine"
   gem.add_dependency "json"
   gem.add_dependency "redis"
+  gem.add_dependency "iconv"
   gem.add_development_dependency "rspec"
 
 end
